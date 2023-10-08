@@ -2,6 +2,9 @@
 Python爬蟲－爬取PBGN電動機車換電聯盟成員之官方新聞稿
 
 ## 目標網頁
+
+![企業一覽](https://github.com/pei9564/NCKU-lab-PBGN-analysis/assets/103319735/9ba83f0b-8e07-488e-80aa-6edf87515c26)
+
 1. [GOGORO](https://www.gogoro.com/tw/news/archive/)
    
 ![image](https://github.com/pei9564/NCKU-lab-PBGN-analysis/assets/103319735/2f570ba7-6eee-420b-bbf2-00f2415309b0)
